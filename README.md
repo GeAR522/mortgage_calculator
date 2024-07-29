@@ -1,6 +1,6 @@
 # Mortgage Calculator
 
-This is just a simple python programme will will calculate the monthly payment of a mortgage based on the total value of the mortgage, the rate of the mortgage, and the remaining number of years.
+This is just a simple python programme which will calculate the monthly payment of a mortgage based on the total value of the mortgage, the rate of the mortgage, and the remaining number of years.
 
 From this you will be told the monthly payment and displayed a breakdown of the monthly payments for the duration of the mortgage including: 
 the remaining balance for each month, the capital payment of each month, and the interest payment of each month.
